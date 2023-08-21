@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "name": "practice-for-ch-js-asteroids-long-practice-main",
+  "description": "In this practice, you will implement the classic game Asteroids.",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "keywords": [],
+  "author": "Sanjid & Dennis",
+  "license": "ISC"
+}
